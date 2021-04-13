@@ -1,4 +1,4 @@
-# Django-API-eComemrce
+# Django-API-eCommerce
 
 ## App basic features: 
 - Retrieve, delete, post, put, and patch new product, product variant, etc.. 
